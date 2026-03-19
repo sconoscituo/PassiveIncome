@@ -53,3 +53,6 @@ htmlcov/
 
 # Docker
 .docker/
+
+# OMC 상태 파일
+.omc/
